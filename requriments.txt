@@ -5,6 +5,6 @@ opencv-python
 deepface
 pytesseract
 pillow
-sqlite3
 pandas
 numpy
+
