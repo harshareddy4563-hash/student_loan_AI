@@ -1,10 +1,5 @@
-streamlit
-fastapi
-uvicorn
-opencv-python
-deepface
-pytesseract
-pillow
-pandas
+gradio
 numpy
-
+pandas
+pillow
+opencv-python-headless
